@@ -1,4 +1,4 @@
-# Copywriting Style Guide
+# 文案风格指南 Copywriting Style Guide
 
 ## 主要原则
 
